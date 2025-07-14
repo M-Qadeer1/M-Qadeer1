@@ -70,7 +70,6 @@ I've worked on several projects at the intersection of **environment, IoT, and s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Qadeer1&theme=dark" height="150"/>
 </p>
 
-
 ---
 
 ## 🤝 Let's Connect
