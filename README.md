@@ -71,7 +71,7 @@ I've worked on several projects at the intersection of **environment, IoT, and s
 
 ## 🤝 Let's Connect
 
-📧 Email: **mqadeer0g@gmail.com**  
+📧 Email: **mqadeer0@gmail.com**  
 🌐 GitHub: [**@M-Qadeer1**](https://github.com/M-Qadeer1)
 
 ---
@@ -88,7 +88,3 @@ I've worked on several projects at the intersection of **environment, IoT, and s
 
 > 🔥Sleep is a function I forgot to call.
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-</p>
