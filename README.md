@@ -71,7 +71,7 @@ I've worked on several projects at the intersection of **environment, IoT, and s
 
 ## 🤝 Let's Connect
 
-📧 Email: **mqadeer0@gmail.com**  
+📧 Email: **mqbozdar0@gmail.com**  
 🌐 GitHub: [**@M-Qadeer1**](https://github.com/M-Qadeer1)
 
 ---
