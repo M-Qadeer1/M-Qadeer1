@@ -39,9 +39,23 @@ I've worked on several projects at the intersection of **environment, IoT, and s
 ---
 ## 🧠 Tech Stack & Tools
 
-| ⚡ Microcontrollers | 🐍 Programming Languages | 🖥️ OS & DevOps | 🌐 Web Framework | 🗺️ GIS & Mapping | 📊 Data & Viz | 🧪 Simulation & Electronics |
-|--------------------|--------------------------|----------------|------------------|------------------|---------------|-----------------------------|
-| ![ESP32](https://img.shields.io/badge/ESP32-black?logo=esphome&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) | ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white) ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-4B6EAF?logo=googleearthengine&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?logo=mathworks&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-E60000?logo=autodesk&logoColor=white) ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF6F00?logo=autodesk&logoColor=white) |
+### ⚡ Microcontrollers
+[![ESP32](https://img.shields.io/badge/ESP32-black?logo=esphome&logoColor=white)]() [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)]() [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)]()  
+
+### 🐍 Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]() [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)]()  
+
+### 🖥️ Operating Systems & Version Control
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]() [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)]()  
+
+### 🗺️ GIS & Mapping
+[![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)]() [![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-4B6EAF?logo=googleearthengine&logoColor=white)]()  
+
+### 📊 Data Analysis & Visualization
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)]() [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)]() [![MATLAB](https://img.shields.io/badge/MATLAB-E16737?logo=mathworks&logoColor=white)]()  
+
+### 🧪 CAD Tools
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E60000?logo=autodesk&logoColor=white)]() [![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF6F00?logo=autodesk&logoColor=white)]()  
 
 
 
